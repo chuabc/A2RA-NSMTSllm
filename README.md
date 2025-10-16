@@ -18,10 +18,6 @@ It consists of three key components:
 Extensive experiments on six real-world benchmarks demonstrate that **A$^2$RA-NSMTSllm consistently outperforms recent state-of-the-art baselines**, including in **few-shot** and **zero-shot** forecasting scenarios.
 
 
-<p align="center">
-  <img src="A2RA-NSMTSllm.jpg" width="700" alt="Framework of A$^2$RA-NSMTSllm">
-</p>
-
 ## Requirements
 
 The code requires the following Python packages:
